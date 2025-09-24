@@ -4,4 +4,8 @@ i am not
 hari
 i change
 i did it
+<<<<<<< HEAD
 how are you
+=======
+hay hello
+>>>>>>> refs/remotes/orgin/master
