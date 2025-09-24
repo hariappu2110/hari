@@ -1,6 +1,2 @@
 commit2
 new line
-i am not
-hari
-i change
-i did it
